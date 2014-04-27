@@ -4,7 +4,8 @@
   "keywords": ["iterator", "generator", "length", "count", "generator-length"],
   "version": "0.0.1",
   "repository": {
-    "url": "git://github.com/jb55/iterator-length.git" "type": "git",
+    "url": "git://github.com/jb55/iterator-length.git",
+    "type": "git"
   },
   "main": "index.js",
   "scripts": {
