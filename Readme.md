@@ -3,6 +3,10 @@
 
   Count the length of an iterator
 
+  [Other handy iterator utility functions](https://github.com/jb55/generators)
+
+  [![Build Status](https://travis-ci.org/jb55/iterator-length.png)](https://travis-ci.org/jb55/iterator-length)
+
 ## Installation
 
   Install with npm
@@ -26,6 +30,12 @@ let len = count(data());
 // len === 2
 
 ```
+
+## API
+
+### count([Iterator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/The_Iterator_protocol))
+
+returns: Number
 
 ## License
 
