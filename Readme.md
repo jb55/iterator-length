@@ -5,7 +5,7 @@
 
   [Other handy iterator utility functions](https://github.com/jb55/generators)
 
-  [![Build Status](https://travis-ci.org/jb55/iterator-length.png)](https://travis-ci.org/jb55/iterator-length)
+  [![Build Status](https://travis-ci.org/jb55/iterator-length.svg)](https://travis-ci.org/jb55/iterator-length)
 
 ## Installation
 
